@@ -2,6 +2,8 @@
 
 **HackRU MLH S25 Hackathon Project**  
 
+🌐 **Live Demo**: [just-balance.us](https://just-balance.us)  
+
 ## 📌 Overview  
 Our project is an AI-based nutrition app designed to help users make the most of their ingredients. By taking pictures of their fridge, users can generate a list of recipes tailored to their preferences. Using OpenAI’s LLMs, the app analyzes available ingredients and suggests creative, nutritious meal options.  
 
