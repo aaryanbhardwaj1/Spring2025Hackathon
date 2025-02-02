@@ -1,3 +1,6 @@
 [submodule "justBalance"]
 	path = justBalance
 	url = https://github.com/aaryanbhardwaj1/justBalance.git
+[submodule "justBalanceBackend"]
+	path = justBalanceBackend
+	url = https://github.com/aaryanbhardwaj1/justBalanceBackend.git
