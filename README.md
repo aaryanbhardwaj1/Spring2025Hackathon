@@ -25,10 +25,10 @@ While we accomplished a lot in a short time, we plan to expand our app with:
 - 📊 **Nutritional Insights**: Provide breakdowns of calorie counts and macronutrients for each recipe.  
 
 ## 🛠️ Technologies Used  
-- **Front End**: *[Frameworks/Technologies Used]*  
-- **Back End**: *[Technologies Used]*  
+- **Front End**: *React*  
+- **Back End**: *Node.js*  
 - **AI Integration**: OpenAI LLMs for image processing and recipe generation  
-- **Database**: *[Database Used]*  
+- **Database**: *MongoDB*  
 
 ## 🤝 Team  
 - Aaryan Bhardwaj 
